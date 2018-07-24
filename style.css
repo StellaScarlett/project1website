@@ -41,16 +41,6 @@ nav a, nav h3{
 
 nav a:hover{
 	text-decoration: underline; /* Hover styles to let people know they can click it */
-	
-	/* unvisited link */
-a:link {
-    color: orangeRed;
-}
-
-/* visited link */
-a:visited {
-    color: orangeRed;
-}
 
 /* mouse over link */
 a:hover {
