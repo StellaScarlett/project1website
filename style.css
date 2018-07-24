@@ -43,7 +43,6 @@ nav a:hover{
 	text-decoration: underline; /* Hover styles to let people know they can click it */
 
 /* mouse over link */
-a:hover {
     color: crimson;
 }
 
